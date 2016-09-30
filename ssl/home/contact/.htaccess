@@ -1,0 +1,6 @@
+<Files ~ "\.(html|php)$">
+    FileEtag None
+    RequestHeader unset If-Modified-Since
+    Header set Cache-Control no-store
+    Header set Pragma no-cache
+</Files>
