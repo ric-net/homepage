@@ -1,0 +1,64 @@
+採用担当各位
+
+「{name}」様から、「キャリア採用プレ応募」がありました。
+正式応募の案内をしましたので、応募書類の郵送をお待ち下さい。
+
+----------------------------------------------------------- 
+
+■ 受付番号
+{_serial}
+
+■ 応募職種
+{subject}
+
+■ お名前
+{name}
+
+■ フリガナ
+{name_kana}
+
+■ 性別
+{sex}
+
+■ 生年月日
+西暦{brith_year}年{brith_month}月{brith_day}日
+
+■ 電話番号
+{phone}
+
+■ メールアドレス
+{email}
+
+■ 入社可能時期
+{joining}
+
+■ お問い合わせ内容
+{comment}
+
+■ その他連絡事項
+{agree}
+
+■ 送信情報
+日時：{_date}
+IP：{_ip}
+ホスト：{_host}
+ユーザーエージェント：{_ua}
+
+
+・━━━━━━━━━━━━━━━━━━━━━━━ 
+┏┓ 
+┗■　株式会社リック 
+
+　　　E-mail：recruit@ric-net.co.jp
+　　　TEL：045-313-3145 FAX：045-411-5388 
+　　　HP：http://www.ric-net.co.jp/ 
+━━━━━━━━━━━━━━━━━━━━━━━━・ 
+
+※このメールには、本来の宛先の方のみに限定された機密情報が 
+含まれている場合がございます。 
+お心あたりのない場合は、送信者にご連絡のうえ、 
+このメールを削除してくださいますようお願い申し上げます。 
+PLEASE READ： 
+This e-mail is confidential and intended for the named recipient only. 
+If you are not an intended 
+recipient, please notify the sender and delete this e-mail.

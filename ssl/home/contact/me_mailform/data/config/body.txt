@@ -1,0 +1,58 @@
+問い合わせ担当各位
+
+「{company} {name}」様から「お問い合わせ」がありました。
+２〜３営業日以内に、回答をお願いします。
+
+----------------------------------------------------------- 
+
+■ 受付番号
+{_serial}
+
+■ お問い合わせ種別
+{subject}
+
+■ お名前
+{name}
+
+■ フリガナ
+{name_kana}
+
+■ 会社(学校)
+{company}
+
+■ 電話番号
+{phone}
+
+■ メールアドレス
+{email}
+
+■ お問い合わせ内容
+{comment}
+
+■ 個人情報の取扱いについて
+{agree}
+
+■ 送信情報
+日時：{_date}
+IP：{_ip}
+ホスト：{_host}
+ユーザーエージェント：{_ua}
+
+
+・━━━━━━━━━━━━━━━━━━━━━━━ 
+┏┓ 
+┗■　株式会社リック 
+
+　　　E-mail：info@ric-net.co.jp
+　　　TEL：045-313-3145 FAX：045-411-5388 
+　　　HP：http://www.ric-net.co.jp/ 
+━━━━━━━━━━━━━━━━━━━━━━━━・ 
+
+※このメールには、本来の宛先の方のみに限定された機密情報が 
+含まれている場合がございます。 
+お心あたりのない場合は、送信者にご連絡のうえ、 
+このメールを削除してくださいますようお願い申し上げます。 
+PLEASE READ： 
+This e-mail is confidential and intended for the named recipient only. 
+If you are not an intended 
+recipient, please notify the sender and delete this e-mail.
