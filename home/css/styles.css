@@ -643,6 +643,19 @@ input:-webkit-autofill {
         background: #FFF;
     }
 
+	#indexCts #DownloadLink {
+	}
+
+	#indexCts #DownloadLink a {
+		color: #0760c9;
+		text-decoration: underline;
+	}
+
+	#indexCts #DownloadLink a:hover {
+		color: #f00;
+		text-decoration: underline;
+	}
+
 	/*----- top -----*/
 	#topCts {
 		width: 100%;
@@ -3083,6 +3096,19 @@ input:-webkit-autofill {
         padding: 15px;
         background: #FFF;
     }
+
+	#indexCts #DownloadLink {
+	}
+
+	#indexCts #DownloadLink a {
+		color: #0760c9;
+		text-decoration: underline;
+	}
+
+	#indexCts #DownloadLink a:hover {
+		color: #f00;
+		text-decoration: underline;
+	}
 
 	/*----- top -----*/
 	#topCts {
